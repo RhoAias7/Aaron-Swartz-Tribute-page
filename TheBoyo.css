@@ -1,0 +1,46 @@
+#page{
+    background-color: brown;
+    text-align: center;
+    margin-top: 50px;
+    margin-right:17%;
+    margin-left: 17%;
+    padding-bottom: 20px;
+    margin-bottom: 50px;
+}
+
+#one{
+    padding-top: 30px;
+    color: black;
+    
+}
+
+#image{
+    background: url('internets-own-boy.jpg') center top;
+    height: 453px;
+    margin-top: 40px;
+    
+}
+
+#photo{
+    background-color: black;
+    height: 480px;
+    margin-left: 40px;
+    margin-right: 40px;
+    color: brown;  
+}
+
+#content{
+    margin-top: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+    color: black; 
+    text-align: left;
+}
+
+#group{
+    font-size: 20px;
+}
+
+#Aaron{
+    margin-top: 20px;
+}
